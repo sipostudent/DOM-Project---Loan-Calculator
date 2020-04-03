@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="assets/images/loan-calculator.png" width="600">
+  <img src="assets/images/loan-calc.png" width="600">
   <br>
     <br>
   JavaScript - Loan Calculator
